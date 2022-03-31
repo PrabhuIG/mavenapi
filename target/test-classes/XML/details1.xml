@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+	<id>0</id>
+	<phno>0</phno>
+	<address>
+		<perAdd>
+			<city>Chennai</city>
+			<street>Sanitorium</street>
+		</perAdd>
+		<tempAdd>
+			<city>PARAMAKUDI</city>
+			<street>Eswaran kovil street</street>
+		</tempAdd>
+	</address>
+</employee>

@@ -1,0 +1,32 @@
+{
+"employee":[
+		{
+		"efirstName":"Prabu",
+		"elastName":"IG"
+		},
+		{
+		"efirstName":"Wasim",
+		"elastName":"Akram"
+		},
+		{
+		"efirstName":"Karthi",
+		"elastName":"SH"
+		}
+	],
+	"Manager":[
+		{
+		"mfirstName":"Madhan",
+		"mlastName":"SR"
+		},
+		{
+		"mfirstName":"Mega",
+		"mlastName":"Nathan"
+		},
+		{
+		"mfirstName":"Sundar",
+		"mlastName":"KK"
+		}
+	]	
+	
+		
+}

@@ -1,0 +1,7 @@
+{
+	"username":"Prabhu",
+	"password":"123445",
+	"browserName":["Chrome","Firefox","IE","Edge"], 
+	"version":"100",
+	"OS":"Windows 11"
+}
